@@ -12,7 +12,7 @@ VLM-Guided Cross-Domain Image Quality Assessment via Semantic and Numerical Dual
 
 The CIQALSN framework consists of three main stages:
 
-
+![./Net](method.png)
 
 
 
